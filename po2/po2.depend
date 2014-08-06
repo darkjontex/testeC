@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1405521829 source:/home/will/Área de Trabalho/po2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1405549366 source:/home/labsac/Área de Trabalho/po2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
